@@ -1,0 +1,1 @@
+These are python projects that are of two types. One is related to development in which I created a weather App that sends details about the weather to the email of a client at a certain date and place. The other type are python scripts that can enhance ethical hacking in a way that by using them you can find security issues in your software and fix them. Use Them Wisely.
